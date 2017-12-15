@@ -24,6 +24,8 @@ sun.pretenzor.ru
 yakub.pretenzor.ru
 
 
+http://smartfox.su/
+
 smartfox24.ru
 smartfox.su
 
@@ -36,6 +38,7 @@ paramita-clinic.ru
 italylegend.ru
 atlantpogreb.ru
 sunwave-studio.ru
+potolok-narod.ru
 
 
 
@@ -47,5 +50,13 @@ help.paramita-clinic.ru
 msk.italylegend.ru
 your.atlantpogreb.ru
 user.sunwave-studio.ru
+potolok-narod.ru     ----без поддомена!
+
+https://www.admitad.com/ru/webmaster/offers/12026/
+
+ns1.timeweb.ru
+ns2.timeweb.ru
+ns3.timeweb.org 
+ns4.timeweb.org
 
 

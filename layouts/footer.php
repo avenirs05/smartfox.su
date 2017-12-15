@@ -10,7 +10,7 @@
 		</div>
 		<div class="col-12 col-lg-3">
 			<span class="d-none d-lg-block" id="btn-get-consult-footer-desk">Заказать выезд специалиста</span>
-			<span class="d-lg-none" id="btn-get-consult-footer-mob">Заказать выезд специалиста</span>	
+			<span class="d-lg-none" id="btn-get-consult-footer-mob">Заказать выезд специалиста<br></span>	
 			<span class="d-none d-lg-block" id="btn-callback-footer-desk">Обратный звонок</span>
 			<span class="d-lg-none" id="btn-callback-footer-mob">Обратный звонок</span>
 		</div>
